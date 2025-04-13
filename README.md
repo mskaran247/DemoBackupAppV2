@@ -1,8 +1,9 @@
 # DemoBackupAppV2
 Demo Backup UI Interface creates in Python
 
-This is a Backup UI Interface for backuk. Take source folder, set destination folder, set backup interval in minute 
-Features
+This is a Backup UI Interface for backup. Choose backup source folder, set backup destination folder, set backup interval in minute 
+
+**App Features**
 1. Backup Source Folder
 2. Backup Destination folder
 3. Backup interval (in minutes) repeats every interval time.
